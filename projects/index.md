@@ -1,27 +1,19 @@
 ---
 title: Projects
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 3
+  tooltip: projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<p style="text-align: center;">Explore what our lab is currently working on!</p>
+<p style="text-align: center;">Please note some repositories are still private but might be made public in the future.</p>
 
-{% include tags.html tags="publication, resource, website" %}
+<!-- {% include tags.html tags="publication, resource, website" %} -->
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+<!--  -->

@@ -1,6 +1,6 @@
 ---
 name: Dr. Claudine Gauthier
-image: images/headshots/Claudine.jpg
+image: images/headshots/placeholder.jpg
 description: Principal Investigator
 role: pi
 education:
