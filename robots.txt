@@ -1,1 +1,1 @@
-Sitemap: http://qpilab.ca/sitemap.xml
+Sitemap: http://www.qpilab.ca/sitemap.xml
