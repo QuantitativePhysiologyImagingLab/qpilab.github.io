@@ -1,1 +1,1 @@
-Sitemap: https://quantitativephysiologyimaginglab.github.io/qpilab.github.io/sitemap.xml
+Sitemap: http://qpilab.ca/sitemap.xml
