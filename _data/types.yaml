@@ -2,9 +2,13 @@
 
 # team member roles
 
-principal-investigator:
+pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
+
+rc:
+  icon: fa-solid fa-glasses
+  description: Research Coordinator
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -25,6 +29,10 @@ programmer:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+
+alumni:
+  icon: fa-solid fa-graduation-cap
+  description: Alumni
 
 # general
 
@@ -72,6 +80,22 @@ search:
 
 # social media
 
+bachelor:
+  icon: fa-solid fa-graduation-cap
+  text: $VALUE
+
+masters:
+  icon: fa-solid fa-graduation-cap
+  text: $VALUE
+
+doctorate:
+  icon: fa-solid fa-graduation-cap
+  text: $VALUE
+
+pdf:
+  icon: fa-solid fa-glasses
+  text: $VALUE
+
 orcid:
   icon: fa-brands fa-orcid
   text: ORCID
@@ -95,12 +119,6 @@ twitter:
   text: Twitter
   tooltip: Twitter
   link: https://twitter.com/$VALUE
-
-bluesky:
-  icon: fa-brands fa-bluesky
-  text: Bluesky
-  tooltip: Bluesky
-  link: https://bsky.app/profile/$VALUE
 
 facebook:
   icon: fa-brands fa-facebook

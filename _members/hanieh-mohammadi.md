@@ -1,8 +1,8 @@
 ---
 name: Hanieh Mohammadi
-image: images/headshots/Hanieh.png
+image: images/headshots/placeholder.jpg
 description: Post Doctoral Fellow
-role: pdf
+role: postdoc
 links:
   
 ---
