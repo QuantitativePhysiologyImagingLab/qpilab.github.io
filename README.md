@@ -5,6 +5,6 @@
 
   # QuantitativePhysiologyImagingLab's Website
 
-  Visit **[qpilab.ca](http://qpilab.ca)** 🚀
+  Visit **[www.qpilab.ca](http://www.qpilab.ca)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
