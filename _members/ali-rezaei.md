@@ -1,10 +1,9 @@
 ---
 name: Ali Rezaei
-image: images/headshots/placeholder.jpg
+image: images/headshots/ali.jpg
 description: PhD Candidate
+description_fr: Candidat au doctorat
 role: phd
-links:
-  
 ---
 
-Ali is a PhD candidate.
+Ali is a PhD candidate in the lab.

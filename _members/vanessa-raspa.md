@@ -1,10 +1,9 @@
 ---
 name: Vanessa Raspa
-image: images/headshots/placeholder.jpg
-description: PhD Student
-role: phd
-links:
-  
+image: images/headshots/vanessa.jpg
+description: MSc Student
+description_fr: Étudiante à la maîtrise
+role: msc
 ---
 
-Vanessa is a PhD student.
+Vanessa is an MSc student in the lab.

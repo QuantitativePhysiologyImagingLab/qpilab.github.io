@@ -36,9 +36,9 @@
       </span>
     {% endif %}
 
-    {% if member.description or type %}
+    {% if member.description or member.description_fr or type %}
       <span class="portrait-description">
-        {{ member.description | default: type.description }}
+        {% if page.lang == "fr" %}{{ member.description_fr | default: member.description }}{% else %}{{ member.description | default: type.description }}{% endif %}
       </span>
     {% endif %}
 

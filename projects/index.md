@@ -1,19 +1,15 @@
 ---
 title: Projects
+alt: /fr/projets/
 nav:
-  order: 3
-  tooltip: projects
+  order: 1
+  tooltip: Current research projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-brain" %}Projects
 
-<p style="text-align: center;">Explore what our lab is currently working on!</p>
-<p style="text-align: center;">Please note some repositories are still private but might be made public in the future.</p>
-
-<!-- {% include tags.html tags="publication, resource, website" %} -->
-
-{% include search-info.html %}
+A common thread runs through our projects, from dance to menopause: finding biomarkers that tell us who is on an unfavourable aging trajectory, and what we can do to help.
 
 {% include section.html %}
 
-<!--  -->
+{% include list.html data="projects" component="card" filters="lang: en" %}

@@ -1,47 +1,117 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# each project appears once per language; pages filter on "lang"
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: CIRM
+  subtitle: Quantitative MRI of neurovascular disease in cardiovascular patients
+  lang: en
+  description: >-
+    Do cardiovascular diseases leave a mark on the brain before cognitive decline appears?
+    CIRM uses a one-hour quantitative MRI session (cerebral blood flow, vascular reactivity, pulsatility,
+    oxygen extraction and myelin) to compare people with coronary artery disease to healthy controls.
+    It has already revealed vascular, metabolic and white-matter changes in participants considered cognitively normal.
+    _Heart and Stroke Foundation Grant-in-Aid, 2017–2021 · started April 2018._
   tags:
-    - resource
+    - cardiovascular disease
+    - aging
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: NeuroDance
+  subtitle: Can dancing change the trajectory of brain aging?
+  lang: en
+  description: >-
+    A pilot trial with Louis Bherer in which adults over 60 dance for six months.
+    Learning choreography, coordinating movement, navigating space and adapting to partners challenges body and brain at once.
+    We compare dance with a combined exercise and cognitive-training program and with a stretching and toning program,
+    measuring cerebral blood flow, oxygen metabolism and cognition before and after.
   tags:
-    - resource
-    - publication
+    - intervention
+    - aging
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: MENO-IRM
+  subtitle: Brain health at menopause
+  lang: en
+  description: >-
+    Before menopause, sex hormones appear to protect the cardiovascular system; afterwards, cardiovascular risk rises
+    and some women may become more vulnerable to cognitive decline. We follow women aged 30 to 60, from premenopause
+    to the first years after menopause, with and without hormone therapy, to image the effects of estradiol,
+    arterial stiffness and inflammation on the brain.
+    _CIHR, 2022–2023 · started May 2022._
   tags:
-    - software
+    - menopause
+    - women's health
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: COV-IRM
+  subtitle: The impact of COVID-19 on brain health
+  lang: en
+  description: >-
+    Using quantitative MRI to measure how COVID-19 infection affects cerebral blood flow, vascular function
+    and oxygen metabolism.
+    _Started February 2022._
   tags:
-    - software
+    - COVID-19
+
+- title: CHD-IRM
+  subtitle: Brain health in congenital heart disease
+  lang: en
+  description: >-
+    Adults born with congenital heart disease now live long lives, but the lifelong effects of altered circulation
+    on the brain are poorly understood. CHD-IRM applies our quantitative MRI protocol to measure their brain's
+    vascular and metabolic health.
+  tags:
+    - cardiovascular disease
+
+- title: CIRM
+  subtitle: IRM quantitative de la maladie neurovasculaire chez les patients cardiovasculaires
+  lang: fr
+  description: >-
+    Les maladies cardiovasculaires laissent-elles des traces dans le cerveau avant l'apparition du déclin cognitif?
+    CIRM utilise une séance d'IRM quantitative d'une heure (circulation sanguine, réactivité vasculaire, pulsatilité,
+    extraction d'oxygène et myéline) pour comparer des personnes atteintes de maladie coronarienne à des témoins en santé.
+    L'étude a déjà révélé des altérations vasculaires, métaboliques et de la matière blanche chez des participants considérés comme cognitivement normaux.
+    _Fondation des maladies du cœur et de l'AVC, Grant-in-Aid, 2017–2021 · début : avril 2018._
+  tags:
+    - maladies cardiovasculaires
+    - vieillissement
+
+- title: NeuroDance
+  subtitle: La danse peut-elle modifier la trajectoire du vieillissement cérébral?
+  lang: fr
+  description: >-
+    Un projet pilote mené avec Louis Bherer : pendant six mois, des personnes de plus de 60 ans pratiquent la danse.
+    Mémoriser une chorégraphie, coordonner ses mouvements, se repérer dans l'espace et s'adapter aux autres sollicitent
+    à la fois le corps et le cerveau. Nous comparons la danse à un programme combinant exercice et stimulation cognitive,
+    et à un programme d'étirements et de tonification, en mesurant la circulation sanguine cérébrale, le métabolisme de l'oxygène et la cognition.
+  tags:
+    - intervention
+    - vieillissement
+
+- title: MENO-IRM
+  subtitle: La santé cérébrale chez les femmes à la ménopause
+  lang: fr
+  description: >-
+    Avant la ménopause, les hormones sexuelles semblent protéger le système cardiovasculaire; après, le risque augmente
+    et certaines femmes pourraient devenir plus vulnérables au déclin cognitif. Nous suivons des femmes de 30 à 60 ans,
+    de la préménopause aux premières années suivant la ménopause, avec ou sans hormonothérapie, pour imager l'effet de
+    l'œstradiol, de la rigidité artérielle et de l'inflammation sur le cerveau.
+    _IRSC, 2022–2023 · début : mai 2022._
+  tags:
+    - ménopause
+    - santé des femmes
+
+- title: COV-IRM
+  subtitle: L'impact de la COVID-19 sur la santé cérébrale
+  lang: fr
+  description: >-
+    L'IRM quantitative pour mesurer comment l'infection à la COVID-19 affecte la circulation sanguine cérébrale,
+    la fonction vasculaire et le métabolisme de l'oxygène.
+    _Début : février 2022._
+  tags:
+    - COVID-19
+
+- title: CHD-IRM
+  subtitle: La santé cérébrale dans les cardiopathies congénitales
+  lang: fr
+  description: >-
+    Les adultes nés avec une cardiopathie congénitale vivent aujourd'hui longtemps, mais les effets à long terme d'une
+    circulation altérée sur le cerveau restent mal compris. CHD-IRM applique notre protocole d'IRM quantitative
+    pour mesurer la santé vasculaire et métabolique de leur cerveau.
+  tags:
+    - maladies cardiovasculaires

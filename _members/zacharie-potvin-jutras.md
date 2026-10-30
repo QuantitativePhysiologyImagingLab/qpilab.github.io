@@ -1,10 +1,9 @@
 ---
 name: Zacharie Potvin-Jutras
-image: images/headshots/placeholder.jpg
+image: images/headshots/zacharie.jpg
 description: PhD Candidate
+description_fr: Candidat au doctorat
 role: phd
-links:
-  
 ---
 
-Zacharie is a PhD candidate.
+Zacharie is a PhD candidate in the lab.

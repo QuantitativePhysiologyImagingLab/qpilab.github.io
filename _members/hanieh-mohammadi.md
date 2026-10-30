@@ -1,10 +1,9 @@
 ---
 name: Hanieh Mohammadi
 image: images/headshots/placeholder.jpg
-description: Post Doctoral Fellow
+description: Postdoctoral Fellow
+description_fr: Stagiaire postdoctorale
 role: postdoc
-links:
-  
 ---
 
-Hanieh is a Post Doc.
+Hanieh is a postdoctoral fellow in the lab.

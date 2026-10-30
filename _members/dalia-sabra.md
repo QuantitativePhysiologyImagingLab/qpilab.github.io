@@ -2,9 +2,8 @@
 name: Dalia Sabra
 image: images/headshots/placeholder.jpg
 description: Research Coordinator
+description_fr: Coordonnatrice de recherche
 role: rc
-links:
-  
 ---
 
-..
+Dalia coordinates the lab's research studies and participant visits.

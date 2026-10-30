@@ -1,14 +1,16 @@
 # site properties and page defaults
 title: Quantitative Physiological Imaging Lab
-subtitle: 
-description: 
+title-fr: Laboratoire d'imagerie physiologique quantitative
+subtitle: Université de Montréal · Montreal Heart Institute
+subtitle-fr: Université de Montréal · Institut de Cardiologie de Montréal
+description: Quantitative MRI of brain vascular and metabolic health in aging and cardiovascular disease.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: claudine.gauthier@concordia.ca
+  email: claudine.gauthier@umontreal.ca
   orcid: 0000-0002-5137-5019
   google-scholar: j-bkdecAAAAJ
   github: QuantitativePhysiologyImagingLab
@@ -22,6 +24,12 @@ defaults:
       path: ""
     values:
       layout: default
+      lang: en
+  # french pages
+  - scope:
+      path: "fr"
+    values:
+      lang: fr
   # markdown files in /_members
   - scope:
       type: "members"

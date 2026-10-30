@@ -1,13 +1,14 @@
 ---
 title: Publications
+alt: /fr/publications/
 nav:
-  order: 2
-  tooltip: Published Papers
+  order: 3
+  tooltip: Published papers
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-scroll" %}Publications
 
-<p style="text-align: center;">Browse publications out of the Manske lab.</p>
+Papers led or supervised by Dr. Gauthier (first or last author), updated automatically from [Google Scholar](https://scholar.google.ca/citations?user=j-bkdecAAAAJ&view_op=list_works&sortby=pubdate).
 
 {% include section.html %}
 
