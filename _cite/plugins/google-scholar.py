@@ -106,8 +106,20 @@ def main(entry):
     author = get_safe(entry, "author", "").split()
     last, initial = (author[-1].lower(), author[0][0].lower()) if author else ("", "")
 
+    try:
+        works = list_works(_id)
+    except Exception as e:
+        # Scholar blocks CI runners; keep last saved list instead of failing the site build
+        log(f"Couldn't reach Google Scholar ({e}), keeping previous citations", indent=3, level="WARNING")
+        previous = load_data("_data/citations.yaml") or []
+        return [
+            {k: v for k, v in c.items() if k not in ("plugin", "file")}
+            for c in previous
+            if c.get("plugin") == Path(__file__).name
+        ]
+
     sources = []
-    for work in list_works(_id):
+    for work in works:
         authors = [a.strip() for a in work["authors"].split(",") if a.strip()]
         link = ""
 
