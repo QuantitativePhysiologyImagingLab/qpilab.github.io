@@ -144,4 +144,12 @@ header[data-big] .subtitle {
   font-size: var(--large);
 }
 
+header[data-big]:before {
+  opacity: 0.6;
+}
+
+header[data-big] .title-text {
+  text-shadow: 0 0 12px #000000;
+}
+
 /*# sourceMappingURL=header.css.map */

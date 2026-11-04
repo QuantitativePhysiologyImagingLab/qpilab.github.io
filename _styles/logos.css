@@ -1,0 +1,16 @@
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 40px 80px;
+  padding: 40px 20px;
+  background: #ffffff;
+}
+
+.logos img {
+  height: 70px;
+  width: auto;
+}
+
+/*# sourceMappingURL=logos.css.map */
