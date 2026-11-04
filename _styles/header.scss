@@ -106,6 +106,7 @@ nav {
 
 nav > a {
   padding: 5px;
+  font-weight: var(--semi-bold);
 }
 
 nav > a:hover {
@@ -174,4 +175,10 @@ header[data-big]:before {
 
 header[data-big] .title-text {
   text-shadow: 0 0 12px #000000;
+}
+
+// fit the whole MR strip in the banner instead of cropping it
+header[data-big].background:before,
+footer.background:before {
+  background-size: contain;
 }

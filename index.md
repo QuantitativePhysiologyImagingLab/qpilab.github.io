@@ -21,8 +21,6 @@ Led by [Dr. Claudine Gauthier](members/claudine-gauthier) at the [Université de
 
 ## What we measure
 
-In a single one-hour MRI session we map the brain's physiology, not just its anatomy:
-
 - **CBF**, cerebral blood flow, with arterial spin labelling (ASL)
 - **CVR**, cerebrovascular reactivity: how much vessels dilate in response to a breathing challenge
 - **Pulsatility**: how much of the heart's pulse reaches small, fragile brain vessels
@@ -33,7 +31,7 @@ In a single one-hour MRI session we map the brain's physiology, not just its ana
 {% capture content %}
 {% include figure.html image="images/maps/cbf.jpg" caption="Cerebral blood flow (ASL)" %}
 {% include figure.html image="images/maps/qsm.jpg" caption="Magnetic susceptibility (QSM)" %}
-{% include figure.html image="images/maps/veins.jpg" caption="Veins segmented from QSM, for OEF" %}
+{% include figure.html image="images/maps/r1.jpg" caption="Longitudinal relaxation rate (R1)" %}
 {% include figure.html image="images/maps/mtsat.jpg" caption="Myelin (MTsat)" %}
 {% include figure.html image="images/maps/r2star.jpg" caption="Iron-sensitive R2\*" %}
 {% include figure.html image="images/maps/lesions.jpg" caption="White-matter lesions" %}

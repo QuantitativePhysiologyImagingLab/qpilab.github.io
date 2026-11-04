@@ -1,6 +1,6 @@
 ---
 name: Hanieh Mohammadi
-image: images/headshots/placeholder.jpg
+image: images/headshots/hanieh.jpg
 description: Postdoctoral Fellow
 description_fr: Stagiaire postdoctorale
 role: postdoc

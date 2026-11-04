@@ -11,7 +11,7 @@ nav:
 Vous voulez voir à l'intérieur du cerveau vivant, et utiliser ce que vous voyez pour aider les gens à mieux vieillir? Nous cherchons des **stagiaires de premier cycle et des étudiants à la maîtrise et au doctorat** pour se joindre à nous à l'Institut de Cardiologie de Montréal et à l'Université de Montréal.
 
 {% capture content %}
-{% include figure.html image="images/maps/veins.jpg" caption="Développer des méthodes : apprentissage profond et physique de l'IRM pour cartographier chaque veine du cerveau" %}
+{% include figure.html image="images/maps/qsm.jpg" caption="Développer des méthodes : physique de l'IRM, reconstruction d'images et apprentissage profond" %}
 {% include figure.html image="images/maps/cbf.jpg" caption="Mesurer la physiologie : débit sanguin, extraction et métabolisme de l'oxygène dans le cerveau vivant" %}
 {% include figure.html image="images/projects/cirm.jpg" caption="Répondre à des questions cliniques : comment les maladies du cœur, la ménopause ou l'exercice changent le cerveau" %}
 {% endcapture %}

@@ -21,8 +21,6 @@ Dirigé par la [Pre Claudine Gauthier](../members/claudine-gauthier) à l'[Unive
 
 ## Ce que nous mesurons
 
-En une seule séance d'IRM d'une heure, nous cartographions la physiologie du cerveau, pas seulement son anatomie :
-
 - **CBF**, le débit sanguin cérébral, par marquage de spins artériels (ASL)
 - **CVR**, la réactivité cérébrovasculaire : la capacité des vaisseaux à se dilater lors d'un défi respiratoire
 - **Pulsatilité** : la part du pouls cardiaque qui atteint les petits vaisseaux fragiles du cerveau
@@ -33,7 +31,7 @@ En une seule séance d'IRM d'une heure, nous cartographions la physiologie du ce
 {% capture content %}
 {% include figure.html image="images/maps/cbf.jpg" caption="Débit sanguin cérébral (ASL)" %}
 {% include figure.html image="images/maps/qsm.jpg" caption="Susceptibilité magnétique (QSM)" %}
-{% include figure.html image="images/maps/veins.jpg" caption="Veines segmentées en QSM, pour l'OEF" %}
+{% include figure.html image="images/maps/r1.jpg" caption="Taux de relaxation longitudinale (R1)" %}
 {% include figure.html image="images/maps/mtsat.jpg" caption="Myéline (MTsat)" %}
 {% include figure.html image="images/maps/r2star.jpg" caption="R2\*, sensible au fer" %}
 {% include figure.html image="images/maps/lesions.jpg" caption="Lésions de la matière blanche" %}

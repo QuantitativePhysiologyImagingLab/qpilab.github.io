@@ -11,7 +11,7 @@ nav:
 Want to see inside the living brain, and use what you see to help people age better? We are looking for **undergraduate interns and MSc and PhD students** to join us at the Montreal Heart Institute and the Université de Montréal.
 
 {% capture content %}
-{% include figure.html image="images/maps/veins.jpg" caption="Build methods: deep learning and MRI physics that map every vein in the brain" %}
+{% include figure.html image="images/maps/qsm.jpg" caption="Build methods: MRI physics, image reconstruction and deep learning" %}
 {% include figure.html image="images/maps/cbf.jpg" caption="Measure physiology: blood flow, oxygen extraction and metabolism in the living brain" %}
 {% include figure.html image="images/projects/cirm.jpg" caption="Answer clinical questions: how heart disease, menopause or exercise change the brain" %}
 {% endcapture %}

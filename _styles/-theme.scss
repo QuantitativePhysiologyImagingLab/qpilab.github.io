@@ -25,6 +25,11 @@
   --overlay: #ffffff10;
 }
 
+// bigger base text; rem-based sizes scale with it
+html {
+  font-size: 18px;
+}
+
 :root {
   // font families
   --title: "Barlow", sans-serif;
@@ -33,15 +38,15 @@
   --code: "Roboto Mono", monospace;
 
   // font sizes
-  --large: 1.2rem;
-  --xl: 1.4rem;
-  --xxl: 1.6rem;
+  --large: 1.3rem;
+  --xl: 1.5rem;
+  --xxl: 1.9rem;
 
   // font weights
-  --thin: 200;
-  --regular: 400;
-  --semi-bold: 500;
-  --bold: 600;
+  --thin: 400;
+  --regular: 500;
+  --semi-bold: 600;
+  --bold: 700;
 
   // text line spacing
   --spacing: 2;
