@@ -166,3 +166,12 @@ header[data-big] {
     font-size: var(--large);
   }
 }
+
+// home page: let the brain-map montage show through
+header[data-big]:before {
+  opacity: 0.6;
+}
+
+header[data-big] .title-text {
+  text-shadow: 0 0 12px #000000;
+}

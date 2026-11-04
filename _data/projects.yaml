@@ -3,14 +3,41 @@
 - title: CIRM
   subtitle: Quantitative MRI of neurovascular disease in cardiovascular patients
   lang: en
+  image: images/projects/cirm.jpg
   description: >-
     Do cardiovascular diseases leave a mark on the brain before cognitive decline appears?
-    CIRM uses a one-hour quantitative MRI session (cerebral blood flow, vascular reactivity, pulsatility,
-    oxygen extraction and myelin) to compare people with coronary artery disease to healthy controls.
-    It has already revealed vascular, metabolic and white-matter changes in participants considered cognitively normal.
+    CIRM compares people with coronary artery disease (CAD) to healthy controls with a one-hour quantitative MRI session:
+    cerebral blood flow (CBF), cerebrovascular reactivity, pulsatility, oxygen extraction (OEF), myelin (MTsat) and iron (QSM, R2*).
+    We found demyelination and higher iron in white-matter watershed areas in CAD, worse after bypass surgery (CABG) than after stenting (PCI)
+    and with more severe disease (SYNTAX score), in participants considered cognitively normal.
     _Heart and Stroke Foundation Grant-in-Aid, 2017–2021 · started April 2018._
   tags:
     - cardiovascular disease
+    - aging
+
+- title: Brain trajectories in coronary artery disease
+  subtitle: Who is on an unfavourable aging path?
+  lang: en
+  image: images/projects/trajectories.jpg
+  description: >-
+    Using CIRM's multimodal brain metrics (vascular, metabolic, macrostructure, white-matter microstructure and susceptibility),
+    we model a CAD "pseudotime" and identify CAD subtypes, then relate them to cognition, aerobic fitness and body composition.
+    The aim: vulnerability profiles that tell us whom to treat, and how.
+  tags:
+    - cardiovascular disease
+    - machine learning
+
+- title: ACTION-CardioRisk
+  subtitle: Cardiovascular risk, cerebrovascular health and cognition
+  lang: en
+  image: images/projects/action.jpg
+  description: >-
+    In older adults, we relate cardiovascular risk factors (Framingham risk score, blood pressure, cholesterol, glucose)
+    to cerebral blood flow, cerebrovascular reactivity and pulsatility, and to cognition.
+    Risk factors cumulatively compromise cerebrovascular health, watershed regions are the most vulnerable,
+    and cognition suffers when cardiovascular risk is high and cerebrovascular health is poor.
+  tags:
+    - cardiovascular risk
     - aging
 
 - title: NeuroDance
@@ -20,7 +47,7 @@
     A pilot trial with Louis Bherer in which adults over 60 dance for six months.
     Learning choreography, coordinating movement, navigating space and adapting to partners challenges body and brain at once.
     We compare dance with a combined exercise and cognitive-training program and with a stretching and toning program,
-    measuring cerebral blood flow, oxygen metabolism and cognition before and after.
+    measuring CBF, OEF, CMRO2 and cognition before and after.
   tags:
     - intervention
     - aging
@@ -58,17 +85,59 @@
   tags:
     - cardiovascular disease
 
+- title: Better venous OEF from QSM
+  subtitle: Deep-learning vein segmentation
+  lang: en
+  image: images/projects/veinseg.jpg
+  link: https://github.com/QuantitativePhysiologyImagingLab/VeinSeg
+  repo: QuantitativePhysiologyImagingLab/VeinSeg
+  description: >-
+    Veins carry deoxygenated blood, so their magnetic susceptibility in QSM reveals how much oxygen the brain extracts (OEF).
+    We trained a U-Net with physics-based losses (field consistency and Frangi vesselness) on data from four centres at 3T and 7T.
+    It segments veins far better than previous methods (Dice 0.79 vs 0.62) and gives OEF estimates that agree better with calibrated fMRI.
+    Code: [VeinSeg on GitHub](https://github.com/QuantitativePhysiologyImagingLab/VeinSeg).
+  tags:
+    - methods
+    - machine learning
+
 - title: CIRM
   subtitle: IRM quantitative de la maladie neurovasculaire chez les patients cardiovasculaires
   lang: fr
+  image: images/projects/cirm.jpg
   description: >-
     Les maladies cardiovasculaires laissent-elles des traces dans le cerveau avant l'apparition du déclin cognitif?
-    CIRM utilise une séance d'IRM quantitative d'une heure (circulation sanguine, réactivité vasculaire, pulsatilité,
-    extraction d'oxygène et myéline) pour comparer des personnes atteintes de maladie coronarienne à des témoins en santé.
-    L'étude a déjà révélé des altérations vasculaires, métaboliques et de la matière blanche chez des participants considérés comme cognitivement normaux.
+    CIRM compare des personnes atteintes de maladie coronarienne à des témoins en santé grâce à une séance d'IRM quantitative d'une heure :
+    débit sanguin cérébral (CBF), réactivité cérébrovasculaire, pulsatilité, extraction d'oxygène (OEF), myéline (MTsat) et fer (QSM, R2*).
+    Nous avons observé une démyélinisation et davantage de fer dans les zones de partage de la matière blanche, plus marquées après un pontage (CABG)
+    qu'après une angioplastie (PCI) et selon la sévérité de la maladie (score SYNTAX), chez des participants considérés comme cognitivement normaux.
     _Fondation des maladies du cœur et de l'AVC, Grant-in-Aid, 2017–2021 · début : avril 2018._
   tags:
     - maladies cardiovasculaires
+    - vieillissement
+
+- title: Trajectoires cérébrales dans la maladie coronarienne
+  subtitle: Qui est sur une mauvaise trajectoire de vieillissement?
+  lang: fr
+  image: images/projects/trajectories.jpg
+  description: >-
+    À partir des mesures cérébrales multimodales de CIRM (vasculaires, métaboliques, macrostructure, microstructure de la matière blanche et susceptibilité),
+    nous modélisons un « pseudotemps » de la maladie coronarienne et identifions des sous-types, puis les relions à la cognition,
+    à la capacité aérobie et à la composition corporelle. Objectif : des profils de vulnérabilité pour savoir qui traiter, et comment.
+  tags:
+    - maladies cardiovasculaires
+    - apprentissage automatique
+
+- title: ACTION-CardioRisk
+  subtitle: Risque cardiovasculaire, santé cérébrovasculaire et cognition
+  lang: fr
+  image: images/projects/action.jpg
+  description: >-
+    Chez des personnes âgées, nous relions les facteurs de risque cardiovasculaire (score de Framingham, pression artérielle, cholestérol, glycémie)
+    au débit sanguin cérébral, à la réactivité cérébrovasculaire et à la pulsatilité, ainsi qu'à la cognition.
+    Les facteurs de risque compromettent cumulativement la santé cérébrovasculaire, les zones de partage sont les plus vulnérables,
+    et la cognition souffre quand le risque cardiovasculaire est élevé et la santé cérébrovasculaire faible.
+  tags:
+    - risque cardiovasculaire
     - vieillissement
 
 - title: NeuroDance
@@ -78,7 +147,7 @@
     Un projet pilote mené avec Louis Bherer : pendant six mois, des personnes de plus de 60 ans pratiquent la danse.
     Mémoriser une chorégraphie, coordonner ses mouvements, se repérer dans l'espace et s'adapter aux autres sollicitent
     à la fois le corps et le cerveau. Nous comparons la danse à un programme combinant exercice et stimulation cognitive,
-    et à un programme d'étirements et de tonification, en mesurant la circulation sanguine cérébrale, le métabolisme de l'oxygène et la cognition.
+    et à un programme d'étirements et de tonification, en mesurant le CBF, l'OEF, le CMRO2 et la cognition.
   tags:
     - intervention
     - vieillissement
@@ -115,3 +184,18 @@
     pour mesurer la santé vasculaire et métabolique de leur cerveau.
   tags:
     - maladies cardiovasculaires
+
+- title: Meilleure OEF veineuse par QSM
+  subtitle: Segmentation des veines par apprentissage profond
+  lang: fr
+  image: images/projects/veinseg.jpg
+  link: https://github.com/QuantitativePhysiologyImagingLab/VeinSeg
+  repo: QuantitativePhysiologyImagingLab/VeinSeg
+  description: >-
+    Les veines transportent le sang désoxygéné : leur susceptibilité magnétique en QSM révèle la quantité d'oxygène extraite par le cerveau (OEF).
+    Nous avons entraîné un U-Net avec des pertes fondées sur la physique (cohérence du champ et vascularité de Frangi) sur des données de quatre centres à 3T et 7T.
+    Il segmente les veines bien mieux que les méthodes précédentes (Dice 0,79 contre 0,62) et donne des estimations d'OEF plus concordantes avec l'IRMf calibrée.
+    Code : [VeinSeg sur GitHub](https://github.com/QuantitativePhysiologyImagingLab/VeinSeg).
+  tags:
+    - méthodes
+    - apprentissage automatique
