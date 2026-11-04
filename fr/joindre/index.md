@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-user-graduate" %}Futurs étudiants
 
-Vous voulez voir à l'intérieur du cerveau vivant, et utiliser ce que vous voyez pour aider les gens à mieux vieillir? Nous cherchons des **stagiaires de premier cycle, des étudiants à la maîtrise et au doctorat et des stagiaires postdoctoraux** pour se joindre à nous à l'Institut de Cardiologie de Montréal et à l'Université de Montréal.
+Vous voulez voir à l'intérieur du cerveau vivant, et utiliser ce que vous voyez pour aider les gens à mieux vieillir? Nous cherchons des **stagiaires de premier cycle et des étudiants à la maîtrise et au doctorat** pour se joindre à nous à l'Institut de Cardiologie de Montréal et à l'Université de Montréal.
 
 {% capture content %}
 {% include figure.html image="images/maps/veins.jpg" caption="Développer des méthodes : apprentissage profond et physique de l'IRM pour cartographier chaque veine du cerveau" %}
@@ -63,12 +63,7 @@ Stages de recherche d'été ou de session, une excellente façon d'essayer la re
 Projets en méthodes d'IRM ou en santé cérébrale et cardiovasculaire. Les profils quantitatifs comme ceux des sciences de la vie sont les bienvenus.
 {% endcapture %}
 
-{% capture col3 %}
-### Postdoctorat
-Menez des projets dans nos cohortes (maladie coronarienne, ménopause, interventions d'exercice et de danse) et contribuez à l'encadrement des étudiants.
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
 
@@ -78,6 +73,6 @@ Menez des projets dans nos cohortes (maladie coronarienne, ménopause, intervent
 
 - votre CV et vos relevés de notes non officiels
 - quelques phrases sur vos intérêts de recherche et les [projets](../projets) qui vous intéressent
-- le poste visé (stage, maîtrise, doctorat ou postdoctorat) et la date de début souhaitée
+- le poste visé (stage, maîtrise ou doctorat) et la date de début souhaitée
 
 {% include button.html type="email" text="Écrire à la Pre Gauthier" link="mailto:claudine.gauthier@umontreal.ca?subject=Demande%20d'un%20futur%20%C3%A9tudiant" %}

@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-user-graduate" %}Prospective Students
 
-Want to see inside the living brain, and use what you see to help people age better? We are looking for **undergraduate interns, MSc and PhD students and postdocs** to join us at the Montreal Heart Institute and the Université de Montréal.
+Want to see inside the living brain, and use what you see to help people age better? We are looking for **undergraduate interns and MSc and PhD students** to join us at the Montreal Heart Institute and the Université de Montréal.
 
 {% capture content %}
 {% include figure.html image="images/maps/veins.jpg" caption="Build methods: deep learning and MRI physics that map every vein in the brain" %}
@@ -63,12 +63,7 @@ Summer or term research internships, a great way to try research. Ideal for phys
 Graduate projects in MRI methods or in brain and cardiovascular health. Students from quantitative and life-science backgrounds are both welcome.
 {% endcapture %}
 
-{% capture col3 %}
-### Postdocs
-Lead projects across our cohorts (coronary artery disease, menopause, exercise and dance interventions) and help mentor students.
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
 
@@ -78,6 +73,6 @@ Send Dr. Gauthier an email with:
 
 - your CV and unofficial transcripts
 - a few sentences on your research interests and which of our [projects](../projects) appeal to you
-- the position you are applying for (internship, MSc, PhD or postdoc) and your intended start date
+- the position you are applying for (internship, MSc or PhD) and your intended start date
 
 {% include button.html type="email" text="Email Dr. Gauthier" link="mailto:claudine.gauthier@umontreal.ca?subject=Prospective%20student%20inquiry" %}

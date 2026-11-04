@@ -10,7 +10,7 @@ nav:
 
 A common thread runs through our projects, from dance to menopause: finding biomarkers that tell us who is on an unfavourable aging trajectory, and what we can do to help.
 
-Our open-source tools, such as [VeinSeg](https://github.com/QuantitativePhysiologyImagingLab/VeinSeg) for cerebral vein segmentation and our [MP2RAGE scripts](https://github.com/QuantitativePhysiologyImagingLab/MP2RAGE-related-scripts), are on [GitHub](https://github.com/QuantitativePhysiologyImagingLab).
+Each project is a cohort we scan with our quantitative MRI protocol. The software we build along the way is on our [Tools](../tools) page.
 
 {% include section.html %}
 

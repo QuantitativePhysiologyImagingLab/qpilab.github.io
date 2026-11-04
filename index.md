@@ -15,7 +15,7 @@ Led by [Dr. Claudine Gauthier](members/claudine-gauthier) at the [Université de
 {% include feature.html image="images/heart-brain.jpg" title="Linking heart and brain" text=text %}
 
 {% capture content %}
-**We're recruiting!** Undergraduate interns, MSc and PhD students and postdocs with backgrounds in physics, engineering, computer science, neuroscience, kinesiology or medicine: [see how to join the lab](join).
+**We're recruiting!** Undergraduate interns and MSc and PhD students with backgrounds in physics, engineering, computer science, neuroscience, kinesiology or medicine: [see how to join the lab](join).
 {% endcapture %}
 {% include alert.html type="tip" content=content %}
 

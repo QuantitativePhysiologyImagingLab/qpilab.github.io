@@ -15,7 +15,7 @@ Dirigé par la [Pre Claudine Gauthier](../members/claudine-gauthier) à l'[Unive
 {% include feature.html image="images/heart-brain.jpg" title="Relier le cœur et le cerveau" text=text %}
 
 {% capture content %}
-**Nous recrutons!** Stagiaires de premier cycle, étudiants à la maîtrise et au doctorat et stagiaires postdoctoraux en physique, génie, informatique, neurosciences, kinésiologie ou médecine : [voyez comment vous joindre au labo](joindre).
+**Nous recrutons!** Stagiaires de premier cycle et étudiants à la maîtrise et au doctorat en physique, génie, informatique, neurosciences, kinésiologie ou médecine : [voyez comment vous joindre au labo](joindre).
 {% endcapture %}
 {% include alert.html type="tip" content=content %}
 
