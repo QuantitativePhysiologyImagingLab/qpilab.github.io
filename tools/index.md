@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-code" %}Tools
 
-We believe methods should be as open as results. The software we build to measure brain physiology is released openly on [GitHub](https://github.com/QuantitativePhysiologyImagingLab), so other labs can reproduce our work and use it in their own studies.
+The software we build to measure brain physiology is released openly on [GitHub](https://github.com/QuantitativePhysiologyImagingLab), so other labs can reproduce our work and use it in their own studies.
 
 {% include section.html %}
 

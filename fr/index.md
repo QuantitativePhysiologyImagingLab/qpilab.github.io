@@ -4,15 +4,13 @@ alt: /
 
 # IRM quantitative de l'axe cœur-cerveau
 
-{% capture text %}
+<img src="{{ "images/heart-brain-fr.svg" | relative_url }}" alt="Le cœur et le cerveau reliés par une artère, avec les mesures que nous imageons : CBF, CVR, pulsatilité, OEF et CMRO2" style="width: 100%; margin: 20px 0 40px;">
+
 Le cœur nourrit le cerveau. Quand le système cardiovasculaire vieillit ou devient malade, l'apport sanguin et le métabolisme énergétique du cerveau changent aussi, souvent des années avant que la mémoire ou la pensée soient touchées.
 
 Le **Laboratoire d'imagerie physiologique quantitative** développe et applique l'IRM quantitative pour mesurer directement ces changements : la quantité de sang qui atteint le cerveau, la réponse de ses vaisseaux, et la quantité d'oxygène qu'il extrait et consomme. Ces mesures nous permettent de relier la santé du cœur à celle du cerveau, et de repérer qui est sur une mauvaise trajectoire de vieillissement pendant qu'il est encore temps d'intervenir.
 
 Dirigé par la [Pre Claudine Gauthier](../members/claudine-gauthier) à l'[Université de Montréal](https://www.umontreal.ca), le laboratoire est affilié au Centre de recherche de l'[Institut de Cardiologie de Montréal](https://www.icm-mhi.org) et au [Centre EPIC](https://www.centreepic.org).
-{% endcapture %}
-
-{% include feature.html image="images/heart-brain.jpg" title="Relier le cœur et le cerveau" text=text %}
 
 {% capture content %}
 **Nous recrutons!** Stagiaires de premier cycle et étudiants à la maîtrise et au doctorat en physique, génie, informatique, neurosciences, kinésiologie ou médecine : [voyez comment vous joindre au labo](joindre).

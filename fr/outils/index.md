@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-code" %}Outils
 
-Nous croyons que les méthodes doivent être aussi ouvertes que les résultats. Les logiciels que nous développons pour mesurer la physiologie du cerveau sont publiés librement sur [GitHub](https://github.com/QuantitativePhysiologyImagingLab), afin que d'autres laboratoires puissent reproduire nos travaux et les utiliser dans leurs propres études.
+Les logiciels que nous développons pour mesurer la physiologie du cerveau sont publiés librement sur [GitHub](https://github.com/QuantitativePhysiologyImagingLab), afin que d'autres laboratoires puissent reproduire nos travaux et les utiliser dans leurs propres études.
 
 {% include section.html %}
 
