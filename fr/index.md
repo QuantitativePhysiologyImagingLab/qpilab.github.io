@@ -1,4 +1,5 @@
 ---
+logos-top: true
 alt: /
 ---
 
@@ -11,6 +12,8 @@ Le cœur nourrit le cerveau. Quand le système cardiovasculaire vieillit ou devi
 Le **Laboratoire d'imagerie physiologique quantitative** développe et applique l'IRM quantitative pour mesurer directement ces changements : la quantité de sang qui atteint le cerveau, la réponse de ses vaisseaux, et la quantité d'oxygène qu'il extrait et consomme. Ces mesures nous permettent de relier la santé du cœur à celle du cerveau, et de repérer qui est sur une mauvaise trajectoire de vieillissement pendant qu'il est encore temps d'intervenir.
 
 Dirigé par la [Pre Claudine Gauthier](../members/claudine-gauthier) à l'[Université de Montréal](https://www.umontreal.ca), le laboratoire est affilié au Centre de recherche de l'[Institut de Cardiologie de Montréal](https://www.icm-mhi.org) et au [Centre EPIC](https://www.centreepic.org).
+
+{% include logos.html %}
 
 {% capture content %}
 **Nous recrutons!** Stagiaires de premier cycle et étudiants à la maîtrise et au doctorat en physique, génie, informatique, neurosciences, kinésiologie ou médecine : [voyez comment vous joindre au labo](joindre).
@@ -31,7 +34,7 @@ Dirigé par la [Pre Claudine Gauthier](../members/claudine-gauthier) à l'[Unive
 {% capture content %}
 {% include figure.html image="images/maps/cbf.jpg" caption="Débit sanguin cérébral (ASL)" %}
 {% include figure.html image="images/maps/qsm.jpg" caption="Susceptibilité magnétique (QSM)" %}
-{% include figure.html image="images/maps/r1.jpg" caption="Taux de relaxation longitudinale (R1)" %}
+{% include figure.html image="images/maps/cvr.jpg" caption="Réactivité cérébrovasculaire (CVR)" %}
 {% include figure.html image="images/maps/mtsat.jpg" caption="Myéline (MTsat)" %}
 {% include figure.html image="images/maps/r2star.jpg" caption="R2\*, sensible au fer" %}
 {% include figure.html image="images/maps/lesions.jpg" caption="Lésions de la matière blanche" %}

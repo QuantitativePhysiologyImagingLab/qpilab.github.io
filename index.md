@@ -1,4 +1,5 @@
 ---
+logos-top: true
 alt: /fr/
 ---
 
@@ -11,6 +12,8 @@ The heart feeds the brain. When the cardiovascular system ages or becomes diseas
 The **Quantitative Physiological Imaging Lab** develops and applies quantitative MRI to measure these changes directly: how much blood reaches the brain, how well its vessels respond, and how much oxygen it extracts and consumes. We use these measures to link heart and brain health, and to find out who is on an unfavourable aging trajectory while there is still time to intervene.
 
 Led by [Dr. Claudine Gauthier](members/claudine-gauthier) at the [Université de Montréal](https://www.umontreal.ca), the lab is affiliated with the [Montreal Heart Institute](https://www.icm-mhi.org) Research Centre and the [EPIC Centre](https://www.centreepic.org).
+
+{% include logos.html %}
 
 {% capture content %}
 **We're recruiting!** Undergraduate interns and MSc and PhD students with backgrounds in physics, engineering, computer science, neuroscience, kinesiology or medicine: [see how to join the lab](join).
@@ -31,7 +34,7 @@ Led by [Dr. Claudine Gauthier](members/claudine-gauthier) at the [Université de
 {% capture content %}
 {% include figure.html image="images/maps/cbf.jpg" caption="Cerebral blood flow (ASL)" %}
 {% include figure.html image="images/maps/qsm.jpg" caption="Magnetic susceptibility (QSM)" %}
-{% include figure.html image="images/maps/r1.jpg" caption="Longitudinal relaxation rate (R1)" %}
+{% include figure.html image="images/maps/cvr.jpg" caption="Cerebrovascular reactivity (CVR)" %}
 {% include figure.html image="images/maps/mtsat.jpg" caption="Myelin (MTsat)" %}
 {% include figure.html image="images/maps/r2star.jpg" caption="Iron-sensitive R2\*" %}
 {% include figure.html image="images/maps/lesions.jpg" caption="White-matter lesions" %}

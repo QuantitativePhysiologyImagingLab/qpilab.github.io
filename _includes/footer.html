@@ -1,16 +1,9 @@
 {% assign image = page.footer | default: site.footer | relative_url %}
 {% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
-<section class="logos">
-  <a href="https://www.umontreal.ca"><img src="{{ "images/logos/udem.svg" | relative_url }}" alt="Université de Montréal"></a>
-  <a href="https://www.icm-mhi.org">
-    {% if page.lang == "fr" %}
-      <img src="{{ "images/logos/mhi-fr.svg" | relative_url }}" alt="Institut de Cardiologie de Montréal">
-    {% else %}
-      <img src="{{ "images/logos/mhi-en.svg" | relative_url }}" alt="Montreal Heart Institute">
-    {% endif %}
-  </a>
-</section>
+{% unless page.logos-top %}
+  {% include logos.html %}
+{% endunless %}
 
 <footer
   class="background"
