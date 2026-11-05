@@ -45,5 +45,15 @@
     max-width: 400px;
   }
 }
+.feature-text .feature-title {
+  margin-top: 0;
+  font-size: var(--xl);
+  font-weight: var(--bold);
+  text-align: left;
+}
+
+.feature-text .tags {
+  justify-content: flex-start;
+}
 
 /*# sourceMappingURL=feature.css.map */
