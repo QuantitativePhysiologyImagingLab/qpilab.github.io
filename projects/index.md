@@ -14,4 +14,19 @@ Each project is a cohort we scan with our quantitative MRI protocol. The softwar
 
 {% include section.html %}
 
-{% include list.html data="projects" component="card" filters="lang: en" %}
+{% assign projects = site.data.projects | where: "lang", "en" %}
+{% for p in projects %}
+{% capture text %}
+_{{ p.subtitle }}_
+
+{{ p.description }}
+
+{% include tags.html tags=p.tags %}
+{% endcapture %}
+{% assign odd = forloop.index | modulo: 2 %}
+{% if odd == 0 %}
+{% include feature.html image=p.image title=p.title text=text flip=true %}
+{% else %}
+{% include feature.html image=p.image title=p.title text=text %}
+{% endif %}
+{% endfor %}

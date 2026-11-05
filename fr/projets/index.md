@@ -14,4 +14,19 @@ Chaque projet est une cohorte que nous imageons avec notre protocole d'IRM quant
 
 {% include section.html %}
 
-{% include list.html data="projects" component="card" filters="lang: fr" %}
+{% assign projects = site.data.projects | where: "lang", "fr" %}
+{% for p in projects %}
+{% capture text %}
+_{{ p.subtitle }}_
+
+{{ p.description }}
+
+{% include tags.html tags=p.tags %}
+{% endcapture %}
+{% assign odd = forloop.index | modulo: 2 %}
+{% if odd == 0 %}
+{% include feature.html image=p.image title=p.title text=text flip=true %}
+{% else %}
+{% include feature.html image=p.image title=p.title text=text %}
+{% endif %}
+{% endfor %}
