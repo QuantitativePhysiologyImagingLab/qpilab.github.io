@@ -182,3 +182,9 @@ header[data-big].background:before,
 footer.background:before {
   background-size: contain;
 }
+
+// purple banner and footer behind the MR strip
+header.background,
+footer.background {
+  background: linear-gradient(135deg, #12061f 0%, #2a0f4a 55%, #4a1a7a 100%);
+}
