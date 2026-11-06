@@ -3,15 +3,15 @@ logos-top: true
 alt: /fr/
 ---
 
-# Quantitative MRI of the heart–brain axis
+# About our lab
 
-<img src="{{ "images/heart-brain.svg" | relative_url }}" alt="The heart and brain connected by an artery, with the measures we image: CBF, CVR, pulsatility, OEF and CMRO2" style="width: 100%; margin: 20px 0 40px;">
+The **Quantitative Physiological Imaging Lab**, led by [Dr. Claudine Gauthier](members/claudine-gauthier), aims to further our understanding of the heart–brain axis, exploring how cardiovascular health influences brain vascular function, metabolism, and microstructure across aging. Based at the [Université de Montréal](https://www.umontreal.ca) and at the [Montreal Heart Institute](https://www.icm-mhi.org) Research Centre, with affiliations to [Centre ÉPIC](https://www.centreepic.org), the lab uses advanced quantitative magnetic resonance imaging (MRI) to study the relationship between cardiovascular health, brain health, and cognitive function.
 
-The heart feeds the brain. When the cardiovascular system ages or becomes diseased, the brain's blood supply and energy metabolism change too, often years before memory or thinking are affected.
+Our research focuses on measuring key physiological markers of brain health, including cerebral blood flow (CBF), cerebrovascular reactivity (CVR), oxygen extraction fraction (OEF), cerebral metabolic rate of oxygen (CMRO₂), myelin content (MTsat), and tissue iron (QSM and R2\*). Together, these measurements provide insight into the vascular, metabolic, and structural changes that may precede cognitive decline and neurodegeneration.
 
-The **Quantitative Physiological Imaging Lab** develops and applies quantitative MRI to measure these changes directly: how much blood reaches the brain, how well its vessels respond, and how much oxygen it extracts and consumes. We use these measures to link heart and brain health, and to find out who is on an unfavourable aging trajectory while there is still time to intervene.
+Alongside our physiological research, we develop and optimize computational analysis tools to improve the accuracy, reliability, and accessibility of quantitative brain imaging. Our work spans oxygenation-sensitive MRI, advanced image-processing pipelines, and open-source deep-learning tools.
 
-Led by [Dr. Claudine Gauthier](members/claudine-gauthier) at the [Université de Montréal](https://www.umontreal.ca), the lab is affiliated with the [Montreal Heart Institute](https://www.icm-mhi.org) Research Centre and the [EPIC Centre](https://www.centreepic.org).
+By integrating MR physics, computational imaging, and clinical research, our lab aims to better understand the trajectories of vascular, metabolic, and structural brain changes associated with aging and cardiovascular disease, identify early biomarkers of cerebrovascular dysfunction, and investigate how interventions, particularly exercise and physical activity, can help preserve brain health and mitigate cognitive decline.
 
 {% include logos.html %}
 

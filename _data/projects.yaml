@@ -1,129 +1,144 @@
 # each project appears once per language; pages filter on "lang"
 
 - title: CIRM
-  subtitle: Quantitative MRI of neurovascular disease in cardiovascular patients
+  subtitle: Coronary artery disease and the brain
   image: images/projects/cirm.svg
   lang: en
   description: >-
-    Do cardiovascular diseases leave a mark on the brain before cognitive decline appears?
-    CIRM compares people with coronary artery disease (CAD) to healthy controls with a one-hour quantitative MRI session:
-    cerebral blood flow (CBF), cerebrovascular reactivity, pulsatility, oxygen extraction (OEF), myelin (MTsat) and iron (QSM, R2*).
-    We found demyelination and higher iron in white-matter watershed areas in CAD, worse after bypass surgery (CABG) than after stenting (PCI)
-    and with more severe disease (SYNTAX score), in participants considered cognitively normal.
-    _Heart and Stroke Foundation Grant-in-Aid, 2017–2021 · started April 2018._
+    The CIRM study investigates how coronary artery disease (CAD) affects brain vascular function, metabolism, and microstructure.
+    By comparing adults with CAD to matched healthy controls, the study uses quantitative MRI to assess cerebral blood flow (CBF),
+    cerebrovascular reactivity (CVR), arterial pulsatility, oxygen extraction fraction (OEF), myelin content (MTsat), and tissue susceptibility (QSM and R2*).
+    Through this work, we aim to identify early markers of cerebrovascular dysfunction and brain tissue alterations associated with cardiovascular disease
+    and better understand how disease severity and cardiovascular interventions influence brain health and the risk of cognitive decline.
+    _Funded by the Heart and Stroke Foundation and the Canadian Institutes of Health Research (CIHR)._
   tags:
     - cardiovascular disease
     - aging
 
 - title: NeuroDance
-  subtitle: Can dancing change the trajectory of brain aging?
+  subtitle: Dance training and brain aging
   image: images/projects/neurodance.svg
   lang: en
   description: >-
-    A pilot trial in which adults over 60 dance for six months.
-    Learning choreography, coordinating movement, navigating space and adapting to partners challenges body and brain at once.
-    We compare dance with a combined exercise and cognitive-training program and with a stretching and toning program,
-    measuring CBF, OEF, CMRO2 and cognition before and after.
+    NeuroDance investigates whether dance training can improve cerebrovascular function, brain oxygen metabolism, and cognitive performance in older adults.
+    This six-month randomized pilot trial involves adults over 60 years of age and compares dance training with combined aerobic and cognitive training
+    and a stretching and toning control group. Using quantitative MRI, the study measures changes in cerebral blood flow (CBF), oxygen extraction fraction (OEF),
+    and cerebral metabolic rate of oxygen (CMRO₂), alongside cognitive assessments before and after the intervention.
+    By comparing these approaches, NeuroDance aims to better understand how different forms of physical and cognitive engagement may support healthy brain aging.
+    _Funded by the Heart and Stroke Foundation and the Canadian Institutes of Health Research (CIHR)._
   tags:
     - intervention
     - aging
 
 - title: MENO-IRM
-  subtitle: Brain health at menopause
+  subtitle: Brain health across the menopausal transition
   image: images/projects/meno-irm.svg
   lang: en
   description: >-
-    Before menopause, sex hormones appear to protect the cardiovascular system; afterwards, cardiovascular risk rises
-    and some women may become more vulnerable to cognitive decline. We follow women aged 30 to 60, from premenopause
-    to the first years after menopause, with and without hormone therapy, to image the effects of estradiol,
-    arterial stiffness and inflammation on the brain.
-    _CIHR, 2022–2023 · started May 2022._
+    MENO-IRM explores how hormonal changes during the menopausal transition influence cerebrovascular function and brain tissue health.
+    The study includes women aged 30 to 60, spanning pre-menopause through early post-menopause, including participants with and without hormone therapy.
+    Using quantitative MRI and physiological assessments, the study aims to better understand the vascular and physiological mechanisms underlying changes
+    in brain health during menopause and identify factors that may contribute to long-term cognitive health.
+    _Funded by the Heart and Stroke Foundation and the Canadian Institutes of Health Research (CIHR)._
   tags:
     - menopause
     - women's health
 
 - title: COV-IRM
-  subtitle: The impact of COVID-19 on brain health
+  subtitle: Long COVID and brain physiology
   image: images/projects/cov-irm.svg
   lang: en
   description: >-
-    Using quantitative MRI to measure how COVID-19 infection affects cerebral blood flow, vascular function
-    and oxygen metabolism.
-    _Started February 2022._
+    COV-IRM investigates the potential effects of long COVID-19 on cerebral vascular function and oxygen metabolism.
+    Using quantitative MRI, the study evaluates cerebral blood flow (CBF), cerebrovascular function, and cerebral oxygen metabolism
+    to characterize physiological changes associated with chronic fatigue syndrome. By examining these complementary measures,
+    COV-IRM aims to better understand how long COVID-19 may affect brain physiology and contribute to our understanding of its potential neurological consequences.
+    _Funded by the Heart and Stroke Foundation and the Canadian Institutes of Health Research (CIHR)._
   tags:
     - COVID-19
 
 - title: CHD-IRM
-  subtitle: Brain health in congenital heart disease
+  subtitle: Congenital heart disease and the brain
   image: images/projects/chd-irm.svg
   lang: en
   description: >-
-    Adults born with congenital heart disease now live long lives, but the lifelong effects of altered circulation
-    on the brain are poorly understood. CHD-IRM applies our quantitative MRI protocol to measure their brain's
-    vascular and metabolic health.
+    CHD-IRM investigates the long-term effects of congenital heart disease on brain vascular function, oxygen metabolism, and tissue microstructure in adults.
+    Using quantitative MRI, the study characterizes cerebral perfusion, oxygen extraction and metabolism in individuals living with congenital alterations
+    in cardiovascular circulation. By examining how lifelong differences in cardiac function and blood flow relate to brain physiology,
+    CHD-IRM aims to identify potential markers of cerebrovascular vulnerability and better understand the neurological consequences of congenital heart disease.
+    _Funded by the Heart and Stroke Foundation and the Canadian Institutes of Health Research (CIHR)._
   tags:
     - cardiovascular disease
 
 - title: CIRM
-  subtitle: IRM quantitative de la maladie neurovasculaire chez les patients cardiovasculaires
+  subtitle: Maladie coronarienne et cerveau
   image: images/projects/cirm.svg
   lang: fr
   description: >-
-    Les maladies cardiovasculaires laissent-elles des traces dans le cerveau avant l'apparition du déclin cognitif?
-    CIRM compare des personnes atteintes de maladie coronarienne à des témoins en santé grâce à une séance d'IRM quantitative d'une heure :
-    débit sanguin cérébral (CBF), réactivité cérébrovasculaire, pulsatilité, extraction d'oxygène (OEF), myéline (MTsat) et fer (QSM, R2*).
-    Nous avons observé une démyélinisation et davantage de fer dans les zones de partage de la matière blanche, plus marquées après un pontage (CABG)
-    qu'après une angioplastie (PCI) et selon la sévérité de la maladie (score SYNTAX), chez des participants considérés comme cognitivement normaux.
-    _Fondation des maladies du cœur et de l'AVC, Grant-in-Aid, 2017–2021 · début : avril 2018._
+    L'étude CIRM examine comment la maladie coronarienne affecte la fonction vasculaire, le métabolisme et la microstructure du cerveau.
+    En comparant des adultes atteints de maladie coronarienne à des témoins en santé appariés, l'étude utilise l'IRM quantitative pour évaluer
+    le débit sanguin cérébral (CBF), la réactivité cérébrovasculaire (CVR), la pulsatilité artérielle, la fraction d'extraction d'oxygène (OEF),
+    le contenu en myéline (MTsat) et la susceptibilité tissulaire (QSM et R2*). Ces travaux visent à identifier des marqueurs précoces de dysfonction
+    cérébrovasculaire et d'altérations du tissu cérébral associées aux maladies cardiovasculaires, et à mieux comprendre comment la sévérité de la maladie
+    et les interventions cardiovasculaires influencent la santé cérébrale et le risque de déclin cognitif.
+    _Financé par la Fondation des maladies du cœur et de l'AVC et les Instituts de recherche en santé du Canada (IRSC)._
   tags:
     - maladies cardiovasculaires
     - vieillissement
 
 - title: NeuroDance
-  subtitle: La danse peut-elle modifier la trajectoire du vieillissement cérébral?
+  subtitle: Entraînement en danse et vieillissement cérébral
   image: images/projects/neurodance.svg
   lang: fr
   description: >-
-    Un projet pilote : pendant six mois, des personnes de plus de 60 ans pratiquent la danse.
-    Mémoriser une chorégraphie, coordonner ses mouvements, se repérer dans l'espace et s'adapter aux autres sollicitent
-    à la fois le corps et le cerveau. Nous comparons la danse à un programme combinant exercice et stimulation cognitive,
-    et à un programme d'étirements et de tonification, en mesurant le CBF, l'OEF, le CMRO2 et la cognition.
+    NeuroDance examine si l'entraînement en danse peut améliorer la fonction cérébrovasculaire, le métabolisme cérébral de l'oxygène et la performance
+    cognitive chez les personnes âgées. Cet essai pilote randomisé de six mois, mené auprès d'adultes de plus de 60 ans, compare la danse à un entraînement
+    aérobie combiné à un entraînement cognitif, et à un groupe témoin d'étirements et de tonification. L'IRM quantitative mesure les changements du débit
+    sanguin cérébral (CBF), de la fraction d'extraction d'oxygène (OEF) et du taux métabolique cérébral d'oxygène (CMRO₂), en plus d'évaluations cognitives
+    avant et après l'intervention. En comparant ces approches, NeuroDance vise à mieux comprendre comment différentes formes d'engagement physique
+    et cognitif peuvent favoriser un vieillissement cérébral en santé.
+    _Financé par la Fondation des maladies du cœur et de l'AVC et les Instituts de recherche en santé du Canada (IRSC)._
   tags:
     - intervention
     - vieillissement
 
 - title: MENO-IRM
-  subtitle: La santé cérébrale chez les femmes à la ménopause
+  subtitle: La santé cérébrale pendant la transition ménopausique
   image: images/projects/meno-irm.svg
   lang: fr
   description: >-
-    Avant la ménopause, les hormones sexuelles semblent protéger le système cardiovasculaire; après, le risque augmente
-    et certaines femmes pourraient devenir plus vulnérables au déclin cognitif. Nous suivons des femmes de 30 à 60 ans,
-    de la préménopause aux premières années suivant la ménopause, avec ou sans hormonothérapie, pour imager l'effet de
-    l'œstradiol, de la rigidité artérielle et de l'inflammation sur le cerveau.
-    _IRSC, 2022–2023 · début : mai 2022._
+    MENO-IRM explore comment les changements hormonaux de la transition ménopausique influencent la fonction cérébrovasculaire et la santé du tissu cérébral.
+    L'étude inclut des femmes de 30 à 60 ans, de la préménopause au début de la postménopause, avec ou sans hormonothérapie.
+    À l'aide de l'IRM quantitative et d'évaluations physiologiques, l'étude vise à mieux comprendre les mécanismes vasculaires et physiologiques
+    qui sous-tendent les changements de la santé cérébrale à la ménopause, et à identifier des facteurs qui peuvent contribuer à la santé cognitive à long terme.
+    _Financé par la Fondation des maladies du cœur et de l'AVC et les Instituts de recherche en santé du Canada (IRSC)._
   tags:
     - ménopause
     - santé des femmes
 
 - title: COV-IRM
-  subtitle: L'impact de la COVID-19 sur la santé cérébrale
+  subtitle: COVID longue et physiologie cérébrale
   image: images/projects/cov-irm.svg
   lang: fr
   description: >-
-    L'IRM quantitative pour mesurer comment l'infection à la COVID-19 affecte la circulation sanguine cérébrale,
-    la fonction vasculaire et le métabolisme de l'oxygène.
-    _Début : février 2022._
+    COV-IRM examine les effets potentiels de la COVID longue sur la fonction vasculaire cérébrale et le métabolisme de l'oxygène.
+    À l'aide de l'IRM quantitative, l'étude évalue le débit sanguin cérébral (CBF), la fonction cérébrovasculaire et le métabolisme cérébral de l'oxygène
+    afin de caractériser les changements physiologiques associés au syndrome de fatigue chronique. En examinant ces mesures complémentaires,
+    COV-IRM vise à mieux comprendre comment la COVID longue peut affecter la physiologie cérébrale et à éclairer ses conséquences neurologiques potentielles.
+    _Financé par la Fondation des maladies du cœur et de l'AVC et les Instituts de recherche en santé du Canada (IRSC)._
   tags:
     - COVID-19
 
 - title: CHD-IRM
-  subtitle: La santé cérébrale dans les cardiopathies congénitales
+  subtitle: Cardiopathies congénitales et cerveau
   image: images/projects/chd-irm.svg
   lang: fr
   description: >-
-    Les adultes nés avec une cardiopathie congénitale vivent aujourd'hui longtemps, mais les effets à long terme d'une
-    circulation altérée sur le cerveau restent mal compris. CHD-IRM applique notre protocole d'IRM quantitative
-    pour mesurer la santé vasculaire et métabolique de leur cerveau.
+    CHD-IRM examine les effets à long terme des cardiopathies congénitales sur la fonction vasculaire, le métabolisme de l'oxygène et la microstructure
+    du cerveau chez l'adulte. À l'aide de l'IRM quantitative, l'étude caractérise la perfusion cérébrale, l'extraction et le métabolisme de l'oxygène
+    chez des personnes vivant avec une circulation cardiovasculaire altérée depuis la naissance. En examinant comment des différences de fonction cardiaque
+    et de circulation sanguine présentes toute la vie sont liées à la physiologie cérébrale, CHD-IRM vise à identifier des marqueurs de vulnérabilité
+    cérébrovasculaire et à mieux comprendre les conséquences neurologiques des cardiopathies congénitales.
+    _Financé par la Fondation des maladies du cœur et de l'AVC et les Instituts de recherche en santé du Canada (IRSC)._
   tags:
     - maladies cardiovasculaires

@@ -3,15 +3,15 @@ logos-top: true
 alt: /
 ---
 
-# IRM quantitative de l'axe cœur-cerveau
+# À propos du laboratoire
 
-<img src="{{ "images/heart-brain-fr.svg" | relative_url }}" alt="Le cœur et le cerveau reliés par une artère, avec les mesures que nous imageons : CBF, CVR, pulsatilité, OEF et CMRO2" style="width: 100%; margin: 20px 0 40px;">
+Le **Laboratoire d'imagerie physiologique quantitative**, dirigé par la [Pre Claudine Gauthier](../members/claudine-gauthier), vise à approfondir notre compréhension de l'axe cœur-cerveau en étudiant comment la santé cardiovasculaire influence la fonction vasculaire, le métabolisme et la microstructure du cerveau au cours du vieillissement. Établi à l'[Université de Montréal](https://www.umontreal.ca) et au Centre de recherche de l'[Institut de Cardiologie de Montréal](https://www.icm-mhi.org), et affilié au [Centre ÉPIC](https://www.centreepic.org), le laboratoire utilise l'imagerie par résonance magnétique (IRM) quantitative avancée pour étudier les liens entre la santé cardiovasculaire, la santé cérébrale et la fonction cognitive.
 
-Le cœur nourrit le cerveau. Quand le système cardiovasculaire vieillit ou devient malade, l'apport sanguin et le métabolisme énergétique du cerveau changent aussi, souvent des années avant que la mémoire ou la pensée soient touchées.
+Nos recherches portent sur la mesure de marqueurs physiologiques clés de la santé cérébrale, dont le débit sanguin cérébral (CBF), la réactivité cérébrovasculaire (CVR), la fraction d'extraction d'oxygène (OEF), le taux métabolique cérébral d'oxygène (CMRO₂), le contenu en myéline (MTsat) et le fer tissulaire (QSM et R2\*). Ensemble, ces mesures éclairent les changements vasculaires, métaboliques et structuraux qui peuvent précéder le déclin cognitif et la neurodégénérescence.
 
-Le **Laboratoire d'imagerie physiologique quantitative** développe et applique l'IRM quantitative pour mesurer directement ces changements : la quantité de sang qui atteint le cerveau, la réponse de ses vaisseaux, et la quantité d'oxygène qu'il extrait et consomme. Ces mesures nous permettent de relier la santé du cœur à celle du cerveau, et de repérer qui est sur une mauvaise trajectoire de vieillissement pendant qu'il est encore temps d'intervenir.
+En parallèle de nos recherches physiologiques, nous développons et optimisons des outils d'analyse computationnelle pour améliorer la précision, la fiabilité et l'accessibilité de l'imagerie cérébrale quantitative. Nos travaux couvrent l'IRM sensible à l'oxygénation, des chaînes avancées de traitement d'images et des outils d'apprentissage profond en libre accès.
 
-Dirigé par la [Pre Claudine Gauthier](../members/claudine-gauthier) à l'[Université de Montréal](https://www.umontreal.ca), le laboratoire est affilié au Centre de recherche de l'[Institut de Cardiologie de Montréal](https://www.icm-mhi.org) et au [Centre EPIC](https://www.centreepic.org).
+En intégrant la physique de l'IRM, l'imagerie computationnelle et la recherche clinique, notre laboratoire cherche à mieux comprendre les trajectoires des changements cérébraux vasculaires, métaboliques et structuraux associés au vieillissement et aux maladies cardiovasculaires, à identifier des biomarqueurs précoces de la dysfonction cérébrovasculaire, et à étudier comment des interventions, en particulier l'exercice et l'activité physique, peuvent aider à préserver la santé cérébrale et à atténuer le déclin cognitif.
 
 {% include logos.html %}
 
