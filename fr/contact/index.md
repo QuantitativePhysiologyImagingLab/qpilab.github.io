@@ -9,7 +9,6 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 {% include button.html type="email" text="claudine.gauthier@umontreal.ca" link="mailto:claudine.gauthier@umontreal.ca" %}
-{% include button.html type="github" text="GitHub" link="https://github.com/QuantitativePhysiologyImagingLab" %}
 
 {% include section.html %}
 
